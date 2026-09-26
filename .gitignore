@@ -1,7 +1,9 @@
 /target
 **/*.rs.bk
 *.wasm
+temp_auto_push.bat
 .env
 .DS_Store
 test_snapshots/
-fix.md
+fix.md.gitignore
+branch_structure.json
